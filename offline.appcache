@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1548259665
+#1548273247
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -7,10 +7,25 @@ images/vorode-sheet0.png
 images/flash-sheet0.png
 images/devar1-sheet0.png
 images/coin-sheet0.png
+images/mane1-sheet0.png
+images/mane1-sheet1.png
 images/player-sheet0.png
+images/playereff-sheet0.png
+images/shotmane1-sheet0.png
+images/shotmane2-sheet0.png
 images/tiledbackground.png
 images/bktxet-sheet0.png
 images/btnstart-sheet0.png
+images/btninfo-sheet0.png
+images/btninfo-sheet1.png
+images/endbk-sheet0.png
+images/restart-sheet0.png
+images/nextlvl-sheet0.png
+images/menu-sheet0.png
+media/laser.m4a
+media/laser.ogg
+media/thunder4.m4a
+media/thunder4.ogg
 icon-16.png
 icon-32.png
 icon-114.png
