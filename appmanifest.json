@@ -1,6 +1,6 @@
 ﻿{
-	"name": "flappy bird",
-	"short_name": "flappy bird",
+	"name": "panemain",
+	"short_name": "panemain",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
