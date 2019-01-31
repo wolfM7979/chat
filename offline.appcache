@@ -1,13 +1,15 @@
 ﻿CACHE MANIFEST
-#1548945325
+#1548947884
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
 images/tank1-sheet0.png
+images/car2-sheet0.png
 images/left1-sheet0.png
 images/right1-sheet0.png
 images/effcar.png
 images/tayar-sheet0.png
+images/effbomb-sheet0.png
 images/tiledbackground.png
 icon-16.png
 icon-32.png
