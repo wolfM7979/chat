@@ -1,18 +1,19 @@
 ﻿CACHE MANIFEST
-#1549307467
+#1549702668
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
+images/careffback.png
+images/tayarback-sheet0.png
 images/cloud-sheet0.png
 images/cloudshadow-sheet0.png
 images/puddlecutout-sheet0.png
 images/raindrop-sheet0.png
 images/splash-sheet0.png
 images/tiledbackground.png
-images/tiledbackgroundblue.png
-images/tiledbackgroundnormal.png
-images/nur-sheet0.png
 images/carplayer-sheet0.png
+images/leftc-sheet0.png
+images/rightc-sheet0.png
 media/fireball.m4a
 media/fireball.ogg
 media/laser.m4a
