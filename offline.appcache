@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1556478345
+#1557824612
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -34,6 +34,7 @@ images/loding-sheet1.png
 images/tiledbackground4.png
 images/reny-sheet0.png
 images/logogame-sheet0.png
+images/powernema.png
 images/h1-sheet0.png
 images/h-sheet0.png
 images/textplay-sheet0.png
@@ -41,6 +42,7 @@ images/h2-sheet0.png
 images/bk-sheet0.png
 images/h3-sheet0.png
 images/h4-sheet0.png
+images/btnplay-sheet0.png
 images/btnmenu-sheet0.png
 images/btnsiting-sheet0.png
 images/btnboy-sheet0.png
@@ -135,6 +137,7 @@ images/etabarn-sheet0.png
 images/etabarn-sheet1.png
 images/d-sheet0.png
 images/btnneru-sheet0.png
+images/پشتیبانی-sheet0.png
 media/fireball.m4a
 media/amy%20macdonald%20-%20this%20is%20the%20life.m4a
 media/amy%20macdonald%20-%20this%20is%20the%20life.ogg
