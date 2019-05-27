@@ -1,12 +1,12 @@
 ﻿CACHE MANIFEST
-#1558684321
+#1558972117
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
-images/لوگو-sheet0.png
-images/باتنعلایم-sheet0.png
-images/بکگراند.png
-images/علایم-sheet0.png
+images/tiledbackground.png
+images/tiledbackground2.png
+images/gamesolid-sheet0.png
+images/solids-sheet0.png
 images/camera-sheet0.png
 icon-16.png
 icon-32.png
