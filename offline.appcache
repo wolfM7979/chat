@@ -1,14 +1,12 @@
 ﻿CACHE MANIFEST
-#1559635552
+#1559657768
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
-images/game1bk.png
 images/tiledbackground4.png
 images/settingbk.png
 images/abr-sheet0.png
 images/baran-sheet0.png
-images/tiledbackground11.png
 images/jragrahnma-sheet0.png
 images/ejarg-sheet0.png
 images/test-sheet0.png
@@ -35,6 +33,11 @@ images/l2-sheet0.png
 images/chrak-sheet0.png
 images/chrak-sheet1.png
 images/balonffct.png
+images/safina-sheet0.png
+images/eff1.png
+images/fazanavard-sheet0.png
+images/eff3.png
+images/sayarat-sheet0.png
 images/bkmenu.png
 images/startgame-sheet0.png
 images/setting-sheet0.png
@@ -47,6 +50,10 @@ images/bkma.png
 images/backmenu-sheet0.png
 images/i1-sheet0.png
 images/exat-sheet0.png
+images/bkgame1a.png
+images/game1bk.png
+images/bkgame1f.png
+images/bkgame1f2.png
 media/1.ogg
 icon-16.png
 icon-32.png
