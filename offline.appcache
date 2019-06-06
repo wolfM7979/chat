@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1559663797
+#1559820206
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -12,12 +12,14 @@ images/ejarg-sheet0.png
 images/test-sheet0.png
 images/balodbk-sheet0.png
 images/bkgame3-sheet0.png
+images/bkgame3-sheet1.png
 images/gamesolid-sheet0.png
 images/solids-sheet0.png
 images/solids-sheet1.png
 images/camera-sheet0.png
 images/particles.png
 images/health-sheet0.png
+images/solids2-sheet0.png
 images/lvl1-sheet0.png
 images/lvl2-sheet0.png
 images/lvl3-sheet0.png
@@ -38,6 +40,8 @@ images/eff1.png
 images/fazanavard-sheet0.png
 images/eff3.png
 images/sayarat-sheet0.png
+images/paranda-sheet0.png
+images/paranda-sheet1.png
 images/bkmenu.png
 images/startgame-sheet0.png
 images/setting-sheet0.png
