@@ -1,13 +1,16 @@
 ﻿CACHE MANIFEST
-#1560282602
+#1560340352
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
-images/tup-sheet0.png
-images/tile-sheet0.png
-images/up-sheet0.png
 images/down-sheet0.png
-images/tiledbackground.png
+images/up-sheet0.png
+images/tup-sheet0.png
+images/end-sheet0.png
+images/etup.png
+images/lvl1bk.png
+images/winbkl.png
+images/enemy1-sheet0.png
 icon-16.png
 icon-32.png
 icon-114.png
