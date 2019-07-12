@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1562846775
+#1562929169
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -9,6 +9,11 @@ images/enemy-sheet0.png
 images/player-sheet0.png
 images/pshot-sheet0.png
 images/topp-sheet0.png
+images/rp-sheet0.png
+images/pper.png
+images/pshp-sheet0.png
+images/pshp-sheet1.png
+images/bkpsh-sheet0.png
 images/cellmarker-sheet0.png
 images/node-sheet0.png
 images/node-sheet1.png
@@ -17,6 +22,23 @@ images/shote-sheet0.png
 images/particles.png
 images/bkeb-sheet0.png
 images/tiledbackground.png
+images/a-sheet0.png
+images/a-sheet1.png
+images/a-sheet2.png
+images/bm-sheet0.png
+images/btnstartaddname-sheet0.png
+images/startn-sheet0.png
+images/tiledbackgrounddastan.png
+images/dtank-sheet0.png
+images/skep-sheet0.png
+images/hde1-sheet0.png
+images/ca-sheet0.png
+images/cd-sheet0.png
+images/cw-sheet0.png
+images/cs-sheet0.png
+images/btnmap-sheet0.png
+images/btnlvlbk-sheet0.png
+images/lvl1-sheet0.png
 icon-16.png
 icon-32.png
 icon-114.png
