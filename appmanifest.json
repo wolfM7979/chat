@@ -1,6 +1,6 @@
 ﻿{
-	"name": "t",
-	"short_name": "t",
+	"name": "math",
+	"short_name": "math",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "portrait",
