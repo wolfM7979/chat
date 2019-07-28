@@ -1,9 +1,9 @@
 ﻿{
-	"name": "math",
-	"short_name": "math",
+	"name": "Air",
+	"short_name": "Air",
 	"start_url": "index.html",
 	"display": "fullscreen",
-	"orientation": "portrait",
+	"orientation": "any",
 	"icons": [{
 		"src": "icon-16.png",
 		"sizes": "16x16",
