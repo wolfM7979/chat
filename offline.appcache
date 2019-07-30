@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1564500728
+#1564517115
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -12,6 +12,13 @@ images/ea1.png
 images/ebe1-sheet0.png
 images/menon.png
 images/btnstart-sheet0.png
+images/bkmeno.png
+images/bkmeno2.png
+images/bkmeno3.png
+images/menobk.png
+images/egm1-sheet0.png
+images/bk-sheet0.png
+images/k-sheet0.png
 images/map-sheet0.png
 images/rah.png
 images/home1t.png
@@ -19,9 +26,12 @@ images/darakht1.png
 images/cw-sheet0.png
 images/cs-sheet0.png
 images/sbk-sheet0.png
+images/dad-sheet0.png
 images/coinbk-sheet0.png
 images/coin-sheet0.png
 images/ecd.png
+images/restartgame-sheet0.png
+images/menogameendbtn-sheet0.png
 icon-16.png
 icon-32.png
 icon-114.png
