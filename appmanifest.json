@@ -1,6 +1,6 @@
 ﻿{
-	"name": "air",
-	"short_name": "air",
+	"name": "airplan",
+	"short_name": "airplan",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
