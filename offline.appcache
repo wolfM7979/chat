@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1564580385
+#1564673511
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -14,8 +14,13 @@ images/ee1.png
 images/ec1-sheet0.png
 images/b-sheet0.png
 images/bombbk-sheet0.png
+images/bkgr1-sheet0.png
+images/startgra-sheet0.png
 images/speedback-sheet0.png
 images/cw-sheet0.png
+images/logo-sheet0.png
+images/logo-sheet1.png
+images/logo-sheet2.png
 icon-16.png
 icon-32.png
 icon-114.png
