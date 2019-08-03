@@ -1,18 +1,22 @@
 ﻿CACHE MANIFEST
-#1564746265
+#1564837703
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
 images/btnstart-sheet0.png
+images/btnstart-sheet1.png
+images/btnstart-sheet2.png
 images/airbk-sheet0.png
 images/ea1.png
 images/tiledbackground.png
 images/tiledbackground2.png
 images/bk1-sheet0.png
-images/e1-sheet0.png
-images/ee1.png
-images/ec1-sheet0.png
 images/b-sheet0.png
+images/e1-sheet0.png
+images/ec1-sheet0.png
+images/ee1.png
+images/e2-sheet0.png
+images/ee2.png
 images/bombbk-sheet0.png
 images/bkgr1-sheet0.png
 images/startgra-sheet0.png
