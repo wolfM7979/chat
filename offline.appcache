@@ -1,9 +1,10 @@
 ﻿CACHE MANIFEST
-#1566069871
+#1566130850
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
 images/tilemap.png
+images/tiledbackground.png
 images/s1-sheet0.png
 images/s1sh-sheet0.png
 images/s1sh-sheet1.png
@@ -18,10 +19,14 @@ images/seve-sheet0.png
 images/load-sheet0.png
 images/s1hud-sheet0.png
 images/blor-sheet0.png
+images/etree.png
 images/h1-sheet0.png
 images/tree-sheet0.png
-images/etree.png
 images/treed-sheet0.png
+images/treer-sheet0.png
+images/rak-sheet0.png
+images/rakr-sheet0.png
+images/red.png
 images/btnv-sheet0.png
 images/w-sheet0.png
 images/s-sheet0.png
